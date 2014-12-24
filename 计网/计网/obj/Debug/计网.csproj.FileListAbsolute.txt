@@ -1,0 +1,13 @@
+C:\Users\mylover\Desktop\计网\计网\bin\Debug\计网.exe.config
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.csprojResolveAssemblyReference.cache
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.Properties.Resources.resources
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.csproj.GenerateResource.Cache
+C:\Users\mylover\Desktop\计网\计网\bin\Debug\计网.exe
+C:\Users\mylover\Desktop\计网\计网\bin\Debug\计网.pdb
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.exe
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.pdb
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.Form1.resources
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.upload.resources
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.addfir.resources
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.chat.resources
+C:\Users\mylover\Desktop\计网\计网\obj\Debug\计网.chatlist.resources
